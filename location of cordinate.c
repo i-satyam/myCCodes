@@ -1,3 +1,8 @@
+/*Code Title: location of co-ordinate.
+Written by:Satyam Verma.
+Date and time:31 Dec ,11:30A.M.
+*/
+
 #include<stdio.h>
 int main() 
 {
