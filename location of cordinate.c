@@ -14,7 +14,7 @@ if(x!=0){
 	if(y==0)
      {
 	 printf("it is on x axis");}
-     if(y!=0)
+     else
      printf("it is in quadrant");}	
 return 7;
 }
